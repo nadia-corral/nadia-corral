@@ -4,7 +4,7 @@ I enjoy using human-centered design principles to cultivate conversation, connec
 - 🔭 I’m currently working on developing my design portfolio.
 - 🌱 I’m currently learning JavaScript and front-end web development.
 - 💃🏽 Fun fact: I'm a dance teacher! My love for dance is lifelong.
-- 📫 <a href="mailto:nadcorral@gmail.com">Reach me by email</a>
+- 📫 <a href="mailto:nadcorral@gmail.com">Reach me by email.</a>
 
 ## Connect with me:
 <a href="https://www.nadiacorral.com/">Check out my product design portfolio!</a>
