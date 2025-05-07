@@ -9,7 +9,7 @@ I enjoy using human-centered design principles to cultivate conversation, connec
 ## Connect with me:
 <a href="https://www.nadiacorral.com/">Check out my product design portfolio!</a>
 
-<a href="https://www.linkedin.com/in/nadia-l-corral/"><img align=”left” src="https://raw.githubusercontent.com/nadia-corral/nadia-corral/main/linkedin-logo.png" alt="Nadia Corral | LinkedIn" width="50px" height="50px"/></a>
+<a href="https://www.linkedin.com/in/nadia-l-corral/"><img align=”left” src="https://raw.githubusercontent.com/nadia-corral/nadia-corral/main/linkedin-logo.png" alt="Nadia Corral | LinkedIn" width="40px" height="40px"/></a>
 <a href="https://medium.com/@nadiacorral/"><img align=”left” src="https://raw.githubusercontent.com/nadia-corral/nadia-corral/main/medium-icon.png" alt="Nadia Corral | Medium" width="40px" height="40px"/></a>
 
 ## Technical Skills
